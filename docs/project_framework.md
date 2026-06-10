@@ -11,8 +11,8 @@
 | PDF ingestion | LangChain |
 | Embedding | sentence-transformers (local, free) |
 | Vector store | Chroma |
-| LLM API | TBD (Groq or Anthropic) — decide at Sprint 2 |
-| Web UI | Streamlit |
+| LLM API | Groq API (Llama 3) |
+| Web UI | Jupyter Notebook |
 | Language | English only |
 
 ---
@@ -20,12 +20,12 @@
 ## Timeline
 
 ### Week 1 (27 May - 2 Jun)
-Task 1 Ideation ✅
+Task 1 Ideation
 
 ### Week 2 (3 - 9 Jun)
 - SRS document
 - Python environment setup (virtual environment, VS Code plugins)
-- Install dependencies: LangChain, Chroma, sentence-transformers, Streamlit
+- Install dependencies: LangChain, Chroma, sentence-transformers
 - Download 3-5 sample SOP PDFs into `data/`
 
 ### Week 3 - 4 (10 - 23 Jun) — Sprint 1
@@ -35,24 +35,21 @@ Task 1 Ideation ✅
 - Basic similarity search working end-to-end
 
 ### Week 5 - 6 (24 Jun - 7 Jul) — Sprint 2
-- LLM API integration (TBD)
+- LLM API integration (Groq)
 - Natural language query interface
 - Retrieval with source citation
-- Streamlit web UI
-- **Sprint 1 & 2 Interim submission (7 Jul)** ✅
+- Interim progress report write up
+- **Sprint 1 & 2 Interim submission (7 Jul)**
 
 ### Week 7 - 8 (8 - 21 Jul)
 - Conversation history
 - Tuning: chunk size and retrieval parameters
 - Testing and evaluation (accuracy, response quality)
 
-### Week 9 - 10 (22 Jul - 4 Aug)
+### Week 9 -10 (22 Jul - 2 Aug)
 - Final report (IEEE format)
 - Presentation preparation
-
-### Week 11 (5 - 7 Aug)
-Buffer + final checks
-- **Final submission (7 Aug)** ✅
+- **Final submission (2 Aug)**
 
 ---
 
