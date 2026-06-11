@@ -26,7 +26,7 @@ Task 1 Ideation
 - SRS document
 - Python environment setup (virtual environment, VS Code plugins)
 - Install dependencies: LangChain, Chroma, sentence-transformers
-- Download 3-5 sample SOP PDFs into `data/`
+- Download 3-5 sample SOP PDFs from [FDA Guidance Documents](https://www.fda.gov/regulatory-information/search-fda-guidance-documents) into `data/`
 
 ### Week 3 - 4 (10 - 23 Jun) — Sprint 1
 - PDF reading and text extraction
