@@ -28,18 +28,18 @@ Task 1 Ideation
 - Install dependencies: LangChain, Chroma, sentence-transformers
 - Download 3-5 sample SOP PDFs from [FDA Guidance Documents](https://www.fda.gov/regulatory-information/search-fda-guidance-documents) into `data/`
 
-### Week 3 - 4 (10 - 23 Jun) — Sprint 1
+### Week 3 - 4 (10 - 14 Jun) — Sprint 1
 - PDF reading and text extraction
 - Text chunking (splitting long documents into segments)
 - Generate embeddings and store in Chroma vector store
 - Basic similarity search working end-to-end
 
-### Week 5 - 6 (24 Jun - 7 Jul) — Sprint 2
+### Week 5 - 6 (15 Jun - 3 Jul) — Sprint 2
 - LLM API integration (Groq)
 - Natural language query interface
 - Retrieval with source citation
 - Interim progress report write up
-- **Sprint 1 & 2 Interim submission (7 Jul)**
+- **Sprint 1 & 2 Interim submission (3 Jul)**
 
 ### Week 7 - 8 (8 - 21 Jul)
 - Conversation history
@@ -55,10 +55,10 @@ Task 1 Ideation
 
 ## Kanban Structure (MS Teams Planner)
 
-Buckets: `Backlog (To-Do)` → `In Progress` → `Testing` → `Evaluation` → `Completed`
+Buckets: `Backlog (To-Do)` → `In Progress` → `Blocked` → `Testing` → `Completed`
 
 Each task within a sprint maps to a card in the board.
 
 ---
 
-*Last updated: 2026-05-27*
+*Last updated: 2026-06-14*
