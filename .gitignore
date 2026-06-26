@@ -4,3 +4,4 @@ __pycache__/
 chroma_db/
 .ipynb_checkpoints/
 .DS_Store
+chroma_db_tuned/
